@@ -17,8 +17,8 @@
   "homepage": "https://github.com//",
   "dependencies": {},
   "devDependencies": {
-    "electrode-archetype-react-component": "../../../electrode/packages/electrode-archetype-react-component",
-    "electrode-archetype-react-component-dev": "../../../electrode/packages/electrode-archetype-react-component-dev"
+    "electrode-archetype-react-component": ".^3.0.0",
+    "electrode-archetype-react-component-dev": "^3.0.0"
   },
   "engines": {
     "node": ">= 4",
