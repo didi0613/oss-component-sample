@@ -1,0 +1,38 @@
+{
+  "name": "oss-component-sample",
+  "version": "1.0.0",
+  "description": "oss-component-sample",
+  "main": "lib/index.js",
+  "author": {
+    "name": "",
+    "url": "https://github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//.git"
+  },
+  "bugs": {
+    "url": "https://github.com///issues"
+  },
+  "homepage": "https://github.com//",
+  "dependencies": {},
+  "devDependencies": {
+    "electrode-archetype-react-component": "../../../electrode/packages/electrode-archetype-react-component",
+    "electrode-archetype-react-component-dev": "../../../electrode/packages/electrode-archetype-react-component-dev"
+  },
+  "engines": {
+    "node": ">= 4",
+    "npm": ">= 3"
+  },
+  "scripts": {
+    "prepublish": "clap prepublish",
+    "start": "clap demo",
+    "test": "clap check"
+  },
+  "keywords": [
+    "react",
+    "electrode",
+    "electrode-component",
+    "react-component"
+  ]
+}

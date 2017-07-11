@@ -1,0 +1,12 @@
+{
+  "valid": true,
+  "version": "1.6.4",
+  "timestamp": 1499794379526,
+  "context": "test/client",
+  "output": {
+    "path": "/_karma_webpack_/",
+    "filename": "[name]",
+    "publicPath": "/_karma_webpack_/"
+  },
+  "assetsFile": "/isomorphic-assets.json"
+}
